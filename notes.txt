@@ -1,0 +1,21 @@
+If the package in issue is only to be used once or twice, rather than every time the project runs, it is preferable to utilize NPX, which will execute the package without installing it. NPM is used to install packages, which we should do if our project requires dependencies or packages.
+
+props = It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one component to other components.
+Props cannot be modified, read-only, and Immutable.
+props cannot be changed inside function return statement
+
+
+The state represents parts of an Application that can change.
+
+The state is a built-in React object that is used to contain data or information about the component. A component's state can change over time; whenever it changes, the component re-renders.
+
+class and for kai place mai className and htmlFor because class and for is a js reserved keyword
+
+
+PropTypes are simply a mechanism that ensures that the passed value is of the correct datatype.
+
+names of file in components should start from capital letter 
+
+app.js mai he sara masala hota hai website ka 
+
+to return more than one thing use jsx fragment <> </>
